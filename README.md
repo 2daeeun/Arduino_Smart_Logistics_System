@@ -56,6 +56,11 @@ __3. 실시간 모니터링 및 관리__
 <img src="./img/블록_다이어그램.png?raw=true">
 </p>
 
+#### 회로도
+<p align="center">
+<img src="./img/회로도.png?raw=true">
+</p>
+
 #### SW 관계도
 <p align="center">
 <img src="./img/SW_관계도.png?raw=true">
@@ -63,10 +68,7 @@ __3. 실시간 모니터링 및 관리__
 
 ***
 ## 시연 영상
-[![시연 영상](./img/동영상_썸네일.png)](https://github.com/2daeeun/Arduino_Smart_Logistics_System/raw/refs/heads/README.md/img/시연_영상.mp4)
-
-
-
+[![시연 영상](./img/동영상_썸네일.png)](https://github.com/2daeeun/Arduino_Smart_Logistics_System/raw/refs/heads/main/img/시연_영상.mp4)
 
 ## 팀원
 <table border="1">
@@ -81,5 +83,6 @@ __3. 실시간 모니터링 및 관리__
 </table>
 
 ##### NOTE
-* 프로젝트 발표 자료 [[Link]](https://github.com/2daeeun/Arduino_Smart_Logistics_System/blob/docs/docs/4학년%201학기%205_ASAP%20프로젝트_구현_및_데모_%28최종%29.pdf)
-* 프로젝트 계획서 자료 [[Link]](https://github.com/2daeeun/Arduino_Smart_Logistics_System/blob/docs/docs/4학년%201학기%20최종보고서.pdf)
+* 프로젝트 발표 자료 [[PPT]](https://어쩌구_저쩌구.ppt) [[PDF]](https://어쩌구_저쩌구.pdf) 
+* 프로젝트 A1 포스터 [[PPT]](https://어쩌구_저쩌구.ppt) [[PDF]](https://어쩌구_저쩌구.pdf) 
+* 프로젝트 최종보고서 [[HWP]](https://어쩌구_저쩌구.hwp) [[PDF]](https://어쩌구_저쩌구.pdf) 
